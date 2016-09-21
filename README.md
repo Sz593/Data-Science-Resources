@@ -26,6 +26,18 @@ Resources For Learning and Refreshing Data Science Knowledge
 [DataQuest.io - How to get into the top 15 of a Kaggle competition using Python](https://www.dataquest.io/blog/kaggle-tutorial/)  
 [Kaggle - Approaching Almost Any Machine Learning Problem](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
 
+## Python NLP
+[Kaggle - Bag of Words Meets Bags of Popcorn (Bag of Words for Beginners)](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words)
+
+## Python Machine Learning Modules
+[TPOT - A Python Tool for Automating Data Science](http://www.randalolson.com/2016/05/08/tpot-a-python-tool-for-automating-data-science/)
+
+## General Machine Learning & Data Science Articles (Non-Python specific)
+[Sebastian Raschka: Model Evaluation, Selection, and Algorithm Selection Part 1](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)  
+[Data Science Central - 66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)  
+[YouTube - Sirajology Channel: Developer Education](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/feed)  
+[Medium - Causal Data Science Series](https://medium.com/@akelleh/causal-data-science-721ed63a4027)
+
 ## Statistics
 [Evan Miller - Statistical Formulas for Programmers](http://www.evanmiller.org/statistical-formulas-for-programmers.html)  
 [Data Science Central - 24 Uses of Statistical Modeling](http://www.datasciencecentral.com/profiles/blogs/top-20-uses-of-statistical-modeling)
@@ -41,3 +53,6 @@ Resources For Learning and Refreshing Data Science Knowledge
 [Harvard University - Statistics 110: Probability](http://projects.iq.harvard.edu/stat110/about)  
 [Harvard University - CS 109: Data Science](http://cs109.github.io/2015/index.html)  
 [NYU Center for Data Science - DS-GA 1003: Machine Learning and Computational Statistics](http://davidrosenberg.github.io/ml2016/#home)
+
+## Miscellaneous Articles
+[DataQuest.io - Build a Data Science Portfolio: How to Set Up a Data Science Blog](https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/)
