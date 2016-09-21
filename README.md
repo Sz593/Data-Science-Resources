@@ -4,10 +4,12 @@ Resources For Learning and Refreshing Data Science Knowledge
 ## Interesting Articles
 [Entropy Explained, With Sheep](https://aatishb.github.io/entropy/)  
 [NYC Subway Math](https://www.opendatascience.com/blog/nyc-subway-math/)
+[Medium - Mental Models I Repeatedly Find Userful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 [Kevin Davenport’s Data Blog](http://kldavenport.com/about/)
 
 ## Statistics
-[Evan Miller - Statistical Formulas for Programmers](http://www.evanmiller.org/statistical-formulas-for-programmers.html)
+[Evan Miller - Statistical Formulas for Programmers](http://www.evanmiller.org/statistical-formulas-for-programmers.html)  
+[Data Science Central - 24 Uses of Statistical Modeling](http://www.datasciencecentral.com/profiles/blogs/top-20-uses-of-statistical-modeling)
 
 ## Data Visualization
 [Tableau -  The Beautiful Science of Data Visualization Webinar](http://www.tableau.com/learn/webinars/beautiful-science-data-visualization)
@@ -23,6 +25,9 @@ Resources For Learning and Refreshing Data Science Knowledge
 ## Python PyData Stack
 [Simple Statistics with SciPy](https://oneau.wordpress.com/2011/02/28/simple-statistics-with-scipy/)  
 [Jupyter Notebook on Random Variables in Python](https://www.eecis.udel.edu/~boncelet/RandomVariables.html)
+
+## Python Machine Learning Articles
+[DataQuest.io - How to get into the top 15 of a Kaggle competition using Python](https://www.dataquest.io/blog/kaggle-tutorial/)
 
 ## Online Courses (MOOCs & University Courses)
 [Caltech -  Learning from Data](http://work.caltech.edu/telecourse.html)  
