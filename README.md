@@ -17,7 +17,7 @@ Resources For Learning and Refreshing Data Science Knowledge
 [Lab41 - The 10 Algorithms Machine Learning Engineers Need to Know](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa)
 
 ## Python Pandas
-[Greg Reda - Intro to pandas data structures](http://gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
+[Greg Reda - Intro to pandas data structures](http://gregreda.com/2013/10/26/intro-to-pandas-data-structures/)  
 [Tom Augspurger: Modern Pandas Series (posts on writing idiomatic pandas code)](http://tomaugspurger.github.io/modern-1.html)
 
 ## Python PyData Stack
