@@ -7,16 +7,12 @@ Resources For Learning and Refreshing Data Science Knowledge
 [Medium - Mental Models I Repeatedly Find Userful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 [Kevin Davenport’s Data Blog](http://kldavenport.com/about/)
 
-## Statistics
-[Evan Miller - Statistical Formulas for Programmers](http://www.evanmiller.org/statistical-formulas-for-programmers.html)  
-[Data Science Central - 24 Uses of Statistical Modeling](http://www.datasciencecentral.com/profiles/blogs/top-20-uses-of-statistical-modeling)
-
-## Data Visualization
-[Tableau -  The Beautiful Science of Data Visualization Webinar](http://www.tableau.com/learn/webinars/beautiful-science-data-visualization)
-
 ## Machine Learning - Introductions
 [R2D3 - A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)  
 [Lab41 - The 10 Algorithms Machine Learning Engineers Need to Know](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa)
+
+## Data Visualization
+[Tableau -  The Beautiful Science of Data Visualization Webinar](http://www.tableau.com/learn/webinars/beautiful-science-data-visualization)
 
 ## Python Pandas
 [Greg Reda - Intro to pandas data structures](http://gregreda.com/2013/10/26/intro-to-pandas-data-structures/)  
@@ -27,7 +23,17 @@ Resources For Learning and Refreshing Data Science Knowledge
 [Jupyter Notebook on Random Variables in Python](https://www.eecis.udel.edu/~boncelet/RandomVariables.html)
 
 ## Python Machine Learning Articles
-[DataQuest.io - How to get into the top 15 of a Kaggle competition using Python](https://www.dataquest.io/blog/kaggle-tutorial/)
+[DataQuest.io - How to get into the top 15 of a Kaggle competition using Python](https://www.dataquest.io/blog/kaggle-tutorial/)  
+[Kaggle - Approaching Almost Any Machine Learning Problem](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
+
+## Statistics
+[Evan Miller - Statistical Formulas for Programmers](http://www.evanmiller.org/statistical-formulas-for-programmers.html)  
+[Data Science Central - 24 Uses of Statistical Modeling](http://www.datasciencecentral.com/profiles/blogs/top-20-uses-of-statistical-modeling)
+
+## Experimental Design
+[Wikipedia - Design of Experiments](https://en.wikipedia.org/wiki/Design_of_experiments)  
+[Wikipedia - Quasi-experiment](https://en.wikipedia.org/wiki/Quasi-experiment)  
+[Textbook - A First Course in the Design and Analysis of Experiments](http://users.stat.umn.edu/~gary/book/fcdae.pdf)
 
 ## Online Courses (MOOCs & University Courses)
 [Caltech -  Learning from Data](http://work.caltech.edu/telecourse.html)  
