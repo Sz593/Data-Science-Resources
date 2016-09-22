@@ -42,7 +42,10 @@ Resources For Learning and Refreshing Data Science Knowledge
 
 ## Statistics
 [Evan Miller - Statistical Formulas for Programmers](http://www.evanmiller.org/statistical-formulas-for-programmers.html)  
-[Data Science Central - 24 Uses of Statistical Modeling](http://www.datasciencecentral.com/profiles/blogs/top-20-uses-of-statistical-modeling)
+[Data Science Central - 24 Uses of Statistical Modeling](http://www.datasciencecentral.com/profiles/blogs/top-20-uses-of-statistical-modeling)  
+[Jeremy Kun - Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)  
+[Bates - Flow Chart for Selecting Commonly Used Statistical Tests
+](http://abacus.bates.edu/~ganderso/biology/resources/stats_flow_chart_v2014.pdf)
 
 ## Experimental Design
 [Wikipedia - Design of Experiments](https://en.wikipedia.org/wiki/Design_of_experiments)  
