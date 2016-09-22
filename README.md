@@ -1,4 +1,4 @@
-# Data-Science-Resources
+# Data Science Resources
 Resources For Learning and Refreshing Data Science Knowledge
 
 ## Interesting Articles
@@ -29,8 +29,10 @@ Resources For Learning and Refreshing Data Science Knowledge
 ## Python NLP
 [Kaggle - Bag of Words Meets Bags of Popcorn (Bag of Words for Beginners)](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words)
 
-## Python Machine Learning Modules
-[TPOT - A Python Tool for Automating Data Science](http://www.randalolson.com/2016/05/08/tpot-a-python-tool-for-automating-data-science/)
+## Python Helpful Modules
+[TPOT - A Python Tool for Automating Data Science](http://www.randalolson.com/2016/05/08/tpot-a-python-tool-for-automating-data-science/)  
+[LuminosoInsight/python-ftfy - Fixes Unicode Text/Mojibake](https://github.com/LuminosoInsight/python-ftfy)  
+[ResidentMario/missingno - Plots Missing Data](https://github.com/ResidentMario/missingno)
 
 ## General Machine Learning & Data Science Articles (Non-Python specific)
 [Sebastian Raschka: Model Evaluation, Selection, and Algorithm Selection Part 1](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)  
@@ -48,11 +50,13 @@ Resources For Learning and Refreshing Data Science Knowledge
 [Textbook - A First Course in the Design and Analysis of Experiments](http://users.stat.umn.edu/~gary/book/fcdae.pdf)
 
 ## Online Courses (MOOCs & University Courses)
+[edX MITx - Computational Probability and Inference](https://www.edx.org/course/computational-probability-inference-mitx-6-008-1x#!)  
 [Caltech -  Learning from Data](http://work.caltech.edu/telecourse.html)  
 [MIT OCW -  How to Process, Analyze and Visualize Data](https://ocw.mit.edu/resources/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/index.htm)  
 [Harvard University - Statistics 110: Probability](http://projects.iq.harvard.edu/stat110/about)  
 [Harvard University - CS 109: Data Science](http://cs109.github.io/2015/index.html)  
-[NYU Center for Data Science - DS-GA 1003: Machine Learning and Computational Statistics](http://davidrosenberg.github.io/ml2016/#home)
+[NYU Center for Data Science - DS-GA 1003: Machine Learning and Computational Statistics](http://davidrosenberg.github.io/ml2016/#home)  
+[Duke - STA 663: Computational Statistics in Python](https://github.com/cliburn/sta-663-2016)
 
 ## Miscellaneous Articles
 [DataQuest.io - Build a Data Science Portfolio: How to Set Up a Data Science Blog](https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/)
