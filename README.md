@@ -52,6 +52,8 @@ Resources For Learning and Refreshing Data Science Knowledge
 [Wikipedia - Quasi-experiment](https://en.wikipedia.org/wiki/Quasi-experiment)  
 [Textbook - A First Course in the Design and Analysis of Experiments](http://users.stat.umn.edu/~gary/book/fcdae.pdf)
 
+## Analytics Vidhya Articles & Tutorials
+
 ## Online Courses (MOOCs & University Courses)
 [edX MITx - Computational Probability and Inference](https://www.edx.org/course/computational-probability-inference-mitx-6-008-1x#!)  
 [Caltech -  Learning from Data](http://work.caltech.edu/telecourse.html)  
