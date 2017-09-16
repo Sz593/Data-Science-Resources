@@ -1,30 +1,41 @@
 # Data Science Resources
 Resources For Learning and Refreshing Data Science Knowledge
 
+## Datasets
+[An API of Ice And Fire](https://anapioficeandfire.com/)
+
 ## Interesting Articles
 [Entropy Explained, With Sheep](https://aatishb.github.io/entropy/)  
 [NYC Subway Math](https://www.opendatascience.com/blog/nyc-subway-math/)
 [Medium - Mental Models I Repeatedly Find Userful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 [Kevin Davenport’s Data Blog](http://kldavenport.com/about/)
+[Space, Time and Groceries - Instacart Grocery delivery visualized in python with datashader](https://tech.instacart.com/space-time-and-groceries-a315925acf3a)
 
 ## Machine Learning - Introductions
 [R2D3 - A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)  
 [Lab41 - The 10 Algorithms Machine Learning Engineers Need to Know](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa)
 
+## Dimensionality Reduction
+[van der Maaten et. al paper - Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
+[How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+
 ## Data Visualization
 [Tableau -  The Beautiful Science of Data Visualization Webinar](http://www.tableau.com/learn/webinars/beautiful-science-data-visualization)
 
 ## Python Pandas
+[Pandas tips and tricks](https://medium.com/towards-data-science/pandas-tips-and-tricks-33bcc8a40bb9)
 [Greg Reda - Intro to pandas data structures](http://gregreda.com/2013/10/26/intro-to-pandas-data-structures/)  
 [Tom Augspurger: Modern Pandas Series (posts on writing idiomatic pandas code)](http://tomaugspurger.github.io/modern-1.html)
 
 ## Python PyData Stack
 [Simple Statistics with SciPy](https://oneau.wordpress.com/2011/02/28/simple-statistics-with-scipy/)  
 [Jupyter Notebook on Random Variables in Python](https://www.eecis.udel.edu/~boncelet/RandomVariables.html)
+[Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html)
 
 ## Python Machine Learning Articles
 [DataQuest.io - How to get into the top 15 of a Kaggle competition using Python](https://www.dataquest.io/blog/kaggle-tutorial/)  
 [Kaggle - Approaching Almost Any Machine Learning Problem](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
+[Probabilistic programming from scratch](https://www.oreilly.com/learning/probabilistic-programming-from-scratch)
 
 ## Python NLP
 [Kaggle - Bag of Words Meets Bags of Popcorn (Bag of Words for Beginners)](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words)
@@ -33,6 +44,7 @@ Resources For Learning and Refreshing Data Science Knowledge
 [TPOT - A Python Tool for Automating Data Science](http://www.randalolson.com/2016/05/08/tpot-a-python-tool-for-automating-data-science/)  
 [LuminosoInsight/python-ftfy - Fixes Unicode Text/Mojibake](https://github.com/LuminosoInsight/python-ftfy)  
 [ResidentMario/missingno - Plots Missing Data](https://github.com/ResidentMario/missingno)
+[]()
 
 ## General Machine Learning & Data Science Articles (Non-Python specific)
 [Sebastian Raschka: Model Evaluation, Selection, and Algorithm Selection Part 1](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)  
