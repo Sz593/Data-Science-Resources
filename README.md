@@ -7,7 +7,7 @@ Resources For Learning and Refreshing Data Science Knowledge
 ## Interesting Articles
 [Entropy Explained, With Sheep](https://aatishb.github.io/entropy/)  
 [NYC Subway Math](https://www.opendatascience.com/blog/nyc-subway-math/)  
-[Medium - Mental Models I Repeatedly Find Userful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
+[Medium - Mental Models I Repeatedly Find Userful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)  
 [Kevin Davenport’s Data Blog](http://kldavenport.com/about/)  
 [Space, Time and Groceries - Instacart Grocery delivery visualized in python with datashader](https://tech.instacart.com/space-time-and-groceries-a315925acf3a)  
 [Hill’s criterion for data scientists using XKCD Comics](http://livefreeordichotomize.com/2016/12/15/hill-for-the-data-scientist-an-xkcd-story/)  
@@ -60,7 +60,7 @@ Resources For Learning and Refreshing Data Science Knowledge
 [Evan Miller - Statistical Formulas for Programmers](http://www.evanmiller.org/statistical-formulas-for-programmers.html)  
 [Data Science Central - 24 Uses of Statistical Modeling](http://www.datasciencecentral.com/profiles/blogs/top-20-uses-of-statistical-modeling)  
 [Jeremy Kun - Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)   
-[Bates - Flow Chart for Selecting Commonly Used Statistical Tests(http://abacus.bates.edu/~ganderso/biology/resources/stats_flow_chart_v2014.pdf)  
+[Bates - Flow Chart for Selecting Commonly Used Statistical Tests](http://abacus.bates.edu/~ganderso/biology/resources/stats_flow_chart_v2014.pdf)  
 [7 Ways to view correlation](http://blogs.sas.com/content/iml/2017/09/05/7-ways-view-correlation.html)  
 
 ## Experimental Design
