@@ -11,6 +11,7 @@ Resources For Learning and Refreshing Data Science Knowledge
 [Kevin Davenport’s Data Blog](http://kldavenport.com/about/)  
 [Space, Time and Groceries - Instacart Grocery delivery visualized in python with datashader](https://tech.instacart.com/space-time-and-groceries-a315925acf3a)  
 [Hill’s criterion for data scientists using XKCD Comics](http://livefreeordichotomize.com/2016/12/15/hill-for-the-data-scientist-an-xkcd-story/)  
+[Learning to Optimize with Reinforcement Learning](http://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)  
 
 ## Machine Learning - Introductions
 [R2D3 - A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)  
@@ -50,6 +51,7 @@ Resources For Learning and Refreshing Data Science Knowledge
 [LuminosoInsight/python-ftfy - Fixes Unicode Text/Mojibake](https://github.com/LuminosoInsight/python-ftfy)  
 [ResidentMario/missingno - Plots Missing Data](https://github.com/ResidentMario/missingno)  
 [Diamond - Python solver for generalized linear models](http://multithreaded.stitchfix.com/blog/2017/08/07/diamond1/)  
+[Hypothesis](http://hypothesis.works/)  
 
 ## General Machine Learning & Data Science Articles (Non-Python specific)
 [Sebastian Raschka: Model Evaluation, Selection, and Algorithm Selection Part 1](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)  
@@ -63,6 +65,7 @@ Resources For Learning and Refreshing Data Science Knowledge
 [Jeremy Kun - Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)   
 [Bates - Flow Chart for Selecting Commonly Used Statistical Tests](http://abacus.bates.edu/~ganderso/biology/resources/stats_flow_chart_v2014.pdf)  
 [7 Ways to view correlation](http://blogs.sas.com/content/iml/2017/09/05/7-ways-view-correlation.html)  
+[Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)  
 
 ## Experimental Design
 [Wikipedia - Design of Experiments](https://en.wikipedia.org/wiki/Design_of_experiments)  
