@@ -24,6 +24,7 @@ Resources For Learning and Refreshing Data Science Knowledge
 ## Data Visualization
 [Tableau -  The Beautiful Science of Data Visualization Webinar](http://www.tableau.com/learn/webinars/beautiful-science-data-visualization)  
 [Dots vs. polygons: How I choose the right visualization](https://blog.mapbox.com/right-way-visualize-data-945d6010fab0)  
+[Data Viz Project](http://datavizproject.com/)  
 
 ## Python Pandas
 [Pandas tips and tricks](https://medium.com/towards-data-science/pandas-tips-and-tricks-33bcc8a40bb9)  
